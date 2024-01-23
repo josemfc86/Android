@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anfibios</string>
+    <string name="amphibian_photo">Foto de anfibio</string>
+    <string name="retry">Recargar</string>
+    <string name="loading">Cargando</string>
+    <string name="loading_failed">Falló al cargar</string>
+    <string name="amphibian_title">%s (%s)</string>
+</resources>
